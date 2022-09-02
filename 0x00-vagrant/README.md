@@ -1,0 +1,1 @@
+linix command uname
